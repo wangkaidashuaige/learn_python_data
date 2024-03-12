@@ -1,0 +1,43 @@
+[2023-01-28 15:01:18,289] log.py-><module> line:27 [INFO]info
+[2023-01-28 15:01:18,290] log.py-><module> line:29 [ERROR]error
+[2023-01-28 15:01:18,290] log.py-><module> line:30 [CRITICAL]critical
+[2023-01-28 15:09:31,732] function.py->dsmp_login line:49 [INFO]username
+[2023-01-28 15:09:31,834] function.py->dsmp_login line:51 [INFO]psw
+[2023-01-28 15:09:32,019] function.py->dsmp_login line:54 [INFO]code
+[2023-01-28 15:10:07,161] function.py->dsmp_login line:49 [INFO]username
+[2023-01-28 15:10:07,249] function.py->dsmp_login line:51 [INFO]psw
+[2023-01-28 15:10:07,423] function.py->dsmp_login line:54 [INFO]code
+[2023-01-28 15:12:04,076] function.py->dsmp_login line:49 [INFO]username
+[2023-01-28 15:12:04,220] function.py->dsmp_login line:51 [INFO]psw
+[2023-01-28 15:12:04,449] function.py->dsmp_login line:54 [INFO]code
+[2023-01-28 15:37:16,084] function.py->dsmp_login line:49 [INFO]username
+[2023-01-28 15:37:16,193] function.py->dsmp_login line:51 [INFO]psw
+[2023-01-28 15:37:16,366] function.py->dsmp_login line:54 [INFO]code
+[2023-01-28 15:40:34,729] function.py->dsmp_login line:49 [INFO]username
+[2023-01-28 15:40:34,833] function.py->dsmp_login line:51 [INFO]psw
+[2023-01-28 15:40:35,001] function.py->dsmp_login line:54 [INFO]code
+[2023-01-28 15:41:58,984] function.py->dsmp_login line:49 [INFO]username
+[2023-01-28 15:41:59,104] function.py->dsmp_login line:51 [INFO]psw
+[2023-01-28 15:41:59,276] function.py->dsmp_login line:54 [INFO]code
+[2023-01-28 15:42:28,208] function.py->dsmp_login line:49 [INFO]username
+[2023-01-28 15:42:28,327] function.py->dsmp_login line:51 [INFO]psw
+[2023-01-28 15:42:28,510] function.py->dsmp_login line:54 [INFO]code
+[2023-01-28 15:42:39,199] connectionpool.py->urlopen line:812 [WARNING]Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026DB6C2F810>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/c68183c6c761569a2349a1892e5bce41/window/rect
+[2023-01-28 15:42:43,293] connectionpool.py->urlopen line:812 [WARNING]Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026DB6D5F8D0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/c68183c6c761569a2349a1892e5bce41/window/rect
+[2023-01-28 15:42:47,388] connectionpool.py->urlopen line:812 [WARNING]Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026DB6C92250>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/c68183c6c761569a2349a1892e5bce41/window/rect
+[2023-01-28 15:44:14,461] function.py->dsmp_login line:49 [INFO]username
+[2023-01-28 15:44:14,564] function.py->dsmp_login line:51 [INFO]psw
+[2023-01-28 15:44:14,739] function.py->dsmp_login line:54 [INFO]code
+[2023-01-28 15:44:25,177] connectionpool.py->urlopen line:812 [WARNING]Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A976D6D210>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/a2ef240da1958e6fb91d3da2d130c02a/window/rect
+[2023-01-28 15:44:29,261] connectionpool.py->urlopen line:812 [WARNING]Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A976D142D0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/a2ef240da1958e6fb91d3da2d130c02a/window/rect
+[2023-01-28 15:44:33,343] connectionpool.py->urlopen line:812 [WARNING]Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A97816EE10>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/a2ef240da1958e6fb91d3da2d130c02a/window/rect
+[2023-01-28 15:51:10,341] function.py->dsmp_login line:49 [INFO]username
+[2023-01-28 15:51:10,436] function.py->dsmp_login line:51 [INFO]psw
+[2023-01-28 15:51:10,604] function.py->dsmp_login line:54 [INFO]code
+[2023-01-28 15:51:21,234] connectionpool.py->urlopen line:812 [WARNING]Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001383674C590>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/2bd10b8822d8d34714e125aef79236c8/window/rect
+[2023-01-28 15:51:25,332] connectionpool.py->urlopen line:812 [WARNING]Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000138366F4050>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/2bd10b8822d8d34714e125aef79236c8/window/rect
+[2023-01-28 15:51:29,443] connectionpool.py->urlopen line:812 [WARNING]Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013836C3F690>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/2bd10b8822d8d34714e125aef79236c8/window/rect
+[2023-01-28 16:17:11,806] function.py->dsmp_login line:49 [INFO]username
+[2023-01-28 16:17:11,907] function.py->dsmp_login line:51 [INFO]psw
+[2023-01-28 16:17:12,069] function.py->dsmp_login line:54 [INFO]code
+[2023-01-28 17:24:00,744] function.py->dsmp_login line:49 [INFO]username
