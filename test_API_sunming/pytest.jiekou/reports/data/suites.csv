@@ -1,6 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Tue Mar 21 18:11:52 GMT+08:00 2023","Tue Mar 21 18:11:52 GMT+08:00 2023","0","pytest_case","demo_001","Test_api","","","原来是我",""
-"passed","Tue Mar 21 18:11:52 GMT+08:00 2023","Tue Mar 21 18:11:52 GMT+08:00 2023","52","pytest_case","demo_001","Test_api","","","标题","该说明为本次接口测试用例的用例说明：1："
-"passed","Tue Mar 21 18:11:52 GMT+08:00 2023","Tue Mar 21 18:11:52 GMT+08:00 2023","48","pytest_case","demo_001","Test_api","","","有秽皆除无妖不斩","该说明为本次接口测试用例的用例说明：1："
-"passed","Tue Mar 21 18:11:52 GMT+08:00 2023","Tue Mar 21 18:11:52 GMT+08:00 2023","58","pytest_case","demo_001","Test_api","","","有秽皆除无妖不斩","该说明为本次接口测试用例的用例说明：1："
-"passed","Tue Mar 21 18:11:52 GMT+08:00 2023","Tue Mar 21 18:11:52 GMT+08:00 2023","51","pytest_case","demo_001","Test_api","","","标题","该说明为本次接口测试用例的用例说明：1："
