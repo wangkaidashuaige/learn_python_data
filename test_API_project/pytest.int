@@ -1,0 +1,8 @@
+[pytest]
+addopts = -VS --alluredir ./temp --clean-alluredire
+testpaths =./testcases
+python_files = test_*.py
+python_classes = Test* python
+functions = test_*
+markers=
+    smoke:maoyan

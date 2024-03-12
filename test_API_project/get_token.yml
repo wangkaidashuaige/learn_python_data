@@ -1,0 +1,7 @@
+-
+  name: 获得统一鉴权码token
+  request:
+    method:
+    url:
+    data:
+  validate: None
